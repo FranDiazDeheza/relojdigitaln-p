@@ -1,0 +1,61 @@
+body {
+
+    background-color: #88DDFF;
+ 
+
+}
+
+
+h1{
+	
+	text-align: center;
+	margin: 0;
+	padding:0px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+     font-size: 45px;
+     margin-left:45px;
+
+	}
+
+
+h2{
+
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	 font-size: 20px;
+
+
+
+
+
+
+
+}
+
+
+
+#clock {
+color: #FDF568;
+font-size: 155px;
+background-color: #fff ;
+padding: 10px;
+width: 80%;
+margin-left: 100px;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-top: 250px;
+
+
+}
+
+
+
+nav {
+	  text-align: center;
+     font-size: 80px;
+     margin-top: 20px;
+
+	}
+
